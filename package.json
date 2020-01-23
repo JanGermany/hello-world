@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "jian's hello-world to publish",
+  "main": "helloworld.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanGermany/hello-world.git"
+  },
+  "keywords": [
+    "noob"
+  ],
+  "author": "jian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanGermany/hello-world/issues"
+  },
+  "homepage": "https://github.com/JanGermany/hello-world#readme"
+}
