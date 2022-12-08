@@ -4,7 +4,7 @@
   "description": "jian's hello-world to publish",
   "main": "helloworld.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
